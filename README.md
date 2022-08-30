@@ -6,15 +6,15 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Lĩnh</h1>
-<h3 align="center">Computer Science student from the University of Adelaide</h3>
+<h3 align="center">Computer Science student at the University of Adelaide</h3>
 
 # Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/linh-tuan-ung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linh-tuan-ung" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/unglinh279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="unglinh279" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9920930/unglinh279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="unglinh279" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/unglinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="unglinh" height="30" width="40" /></a>
 <a href="https://fb.com/unglinh279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="unglinh279" height="30" width="40" /></a>
 <a href="https://instagram.com/unglinh279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unglinh279" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/unglinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="unglinh" height="30" width="40" /></a>
 </p>
          
 # Languages and tools:
