@@ -35,6 +35,7 @@
 # Personal Projects
 [![Project1](https://github-readme-stats.vercel.app/api/pin/?username=unglinh279&repo=MATLAB-wordle&theme=dark)](https://github.com/unglinh279/MATLAB-wordle)
 [![Project1](https://github-readme-stats.vercel.app/api/pin/?username=unglinh279&repo=The-Literature-Project&theme=dark)](https://github.com/unglinh279/The-Literature-Project)
+[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=unglinh279&repo=Competitive-Programming&theme=dark)](https://github.com/unglinh279/Competitive-Programming)
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=unglinh279&show_icons=true&theme=dark&hide_border=false&count_private=true) <br/>
