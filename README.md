@@ -31,12 +31,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 
 </p>
-  
-# Personal Projects
-[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=unglinh279&repo=MATLAB-wordle&theme=dark)](https://github.com/unglinh279/MATLAB-wordle)
-[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=unglinh279&repo=Laser-Legion&theme=dark)](https://github.com/unglinh279/Laser-Legion)
-[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=unglinh279&repo=The-Literature-Project&theme=dark)](https://github.com/unglinh279/The-Literature-Project)
-[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=unglinh279&repo=Competitive-Programming&theme=dark)](https://github.com/unglinh279/Competitive-Programming)
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=unglinh279&show_icons=true&theme=dark&hide_border=false&count_private=true) <br/>
