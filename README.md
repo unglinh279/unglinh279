@@ -1,19 +1,10 @@
-<h1 align="center">Linh Ung</h1>
+<div align="center">
+  <img src="banner.svg" alt="Linh Ung — ML Engineer · Neuromorphic Vision" width="830"/>
+</div>
 
-<p align="center"><b>ML Engineer · Neuromorphic Vision Researcher</b><br/>
-<sub>Adelaide, South Australia</sub></p>
+<br/>
 
-<p align="center"><i>I build vision systems that only see what moves.</i></p>
-
-<p align="center">
-  <a href="https://unglinh.dev/">unglinh.dev</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/linh-tuan-ung">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://codeforces.com/profile/unglinh">Codeforces</a>
-</p>
-
----
-
-I build the infrastructure behind machine learning — annotation platforms, evaluation pipelines, deployment automation. Strict types, reproducible pipelines, code that doesn't break at 3 AM.
+I build the infrastructure behind machine learning — annotation platforms, evaluation pipelines, deployment automation — and research vision systems that only see what moves. Strict types, reproducible pipelines, code that survives 3 AM.
 
 **Currently**
 
@@ -22,7 +13,7 @@ I build the infrastructure behind machine learning — annotation platforms, eva
 
 **Previously**
 
-- Cloud Backend Engineer at **Budi** · CV research at **GoMicro** · top 5%, Vietnam National Informatics Olympiad
+Cloud Backend Engineer at **Budi** · CV research at **GoMicro** · top 5%, Vietnam National Informatics Olympiad
 
 **Tools I reach for**
 
@@ -34,4 +25,6 @@ Filming cooking videos for an audience of dozens, supervised by three cats who r
 
 ---
 
-<p align="center"><sub>⚡ Event cameras don't have frames — each pixel fires the instant something changes. My README works the same way: updated only when something happens.</sub></p>
+<div align="center">
+  <a href="https://unglinh.dev/">unglinh.dev</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/linh-tuan-ung">LinkedIn</a> &nbsp;·&nbsp; <a href="https://codeforces.com/profile/unglinh">Codeforces</a>
+</div>
